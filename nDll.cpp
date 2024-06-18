@@ -20,7 +20,7 @@
 #pragma comment(lib,"v8_base_3.lib")
 #pragma comment(lib,"v8_libbase.lib")
 #pragma comment(lib,"v8_libplatform.lib")
-#pragma comment(lib,"v8_nosnapshot.lib")
+//#pragma comment(lib,"v8_nosnapshot.lib")
 #pragma comment(lib,"v8_snapshot.lib")
 #pragma comment(lib, "winmm.lib ")
 
