@@ -1,0 +1,4 @@
+- uses v8 static libraries from node.js 6.9.5 source code
+- compiled with visual studio 2015
+- parameters: vcbuild x64 nosign
+- project solution: visual studio 2022 but 2015's build tools
